@@ -1,11 +1,20 @@
+html,
+body {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+.bg-dark {
+	background-color: black !important;
+}
+
 #board {
-  max-width: 600px;
+	max-width: 600px;
 }
 
 .card {
-  border-width: 2px;
-  border-color: black;
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 150px;
+	border-width: 2px;
+	border-color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 150px;
 }
